@@ -10,7 +10,6 @@
             </div>
         </div>
 
-        <!-- Card da Tabela com Visual Moderno -->
         <div class="card border-0 shadow-sm rounded-4 overflow-hidden mb-4">
             <div class="card-body p-0">
                 <div class="table-responsive">
@@ -54,7 +53,6 @@
             </div>
         </div>
 
-        <!-- Paginação Centralizada -->
         <div class="d-flex justify-content-center mt-4">
             {{ $products->links() }}
         </div>
